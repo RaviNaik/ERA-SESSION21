@@ -10,6 +10,11 @@
 ![image](https://github.com/RaviNaik/ERA-SESSION21/assets/23289802/95dcde00-bf20-4853-ad20-fa67c1046f6b)
 
 #### Generation Output:
+```python
+model = torch.load("checkpoints/model.pth", map_location={"cpu": device})
+results = generate("hello", model, block_size, 1000, device)
+print(results)
+```
 ```
 hellows thence grown from thee.
 Since thou hast raim, thou thast well were quarterned; and
