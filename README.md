@@ -1,5 +1,6 @@
 # ERA-SESSION21 - GPT from scratch
-[🤗 Space Link](https://huggingface.co/spaces/RaviNaik/ERA-SESSION21) \
+🤗[**Space Link**](https://huggingface.co/spaces/RaviNaik/ERA-SESSION21) \
+
 This is an implementation of GPT [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2s) by Andrej Karpathy.  
 Dataset used to train: [tinyshakespeare](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt).
 
