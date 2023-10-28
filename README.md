@@ -1,4 +1,11 @@
-# ERA-SESSION21
+# ERA-SESSION21 - GPT from scratch
+[🤗 Space Link](https://huggingface.co/spaces/RaviNaik/ERA-SESSION21)
+This is an implementation of GPT [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2s) by Andrej Karpathy.  
+Dataset used to train: [tinyshakespeare](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt).
+
+### Tasks:
+1. :heavy_check_mark: Go through [this](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2s) video and train your GPT from scratch.
+2. :heavy_check_mark: Upload the model to HuggingFace Apps, and share the link.
 
 ### Results
 **Bigram Base model training and results**
