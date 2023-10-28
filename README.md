@@ -50,3 +50,6 @@ Behing mine of thy denigning state lain business?
 SAMPSA:
 Sir, ha! but thou refused? thyself food, gr
 ```
+### Gradio Interface
+![image](https://github.com/RaviNaik/ERA-SESSION21/assets/23289802/f339ec6b-17b3-4de6-bbef-14eb2b3fac84)
+
