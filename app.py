@@ -21,7 +21,11 @@ dropout = 0.2
 
 
 def load_model():
-    model = torch.load("checkpoints/model.pth", map_location={"cpu": device})
+    model_ckpt = torch.load("checkpoints/model.pth", map_location=device)
+    model = GPTModel(
+        vocab_size, n_embeds, block_size, n_heads, n_layers, dropout, device
+    )
+    model.load_state_dict(model_ckpt.state_dict())
     return model
 
 
